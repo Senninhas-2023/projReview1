@@ -1,7 +1,6 @@
 {
-  "name": "projReview1",
+  "name": "projreview1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sandroffdsantos/projReview1/issues"
   },
-  "homepage": "https://github.com/sandroffdsantos/projReview1#readme"
+  "homepage": "https://github.com/sandroffdsantos/projReview1#readme",
+  "devDependencies": {
+    "@types/node": "^20.6.3",
+    "typescript": "^5.2.2"
+  },
+  "description": ""
 }
