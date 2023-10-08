@@ -1,6 +1,2 @@
-@CamillaDMSouza
-@NunoFaria1308
-@joaoatrocha
-@OlgaCadavez
-@vitormapereira
-@Sandrasilva13
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#example-of-a-codeowners-file
+* @CamillaDMSouza @NunoFaria1308 @joaoatrocha @OlgaCadavez @vitormapereira @Sandrasilva13
